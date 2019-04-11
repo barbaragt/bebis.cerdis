@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### ¡Algo de información extra!
 
-### More Information
+Para cualquier consulta, sugerencia, o incluso para tomar unas cervezas, no dudes en transmitírnoslo a través de cualquiera de nuestras redes, o por email.
 
-A place to include any other types of information that you'd like to include about yourself.
+### Contacto
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[bebis.cerdis@gmail.com](mailto:bebis.cerdis@gmail.com)
